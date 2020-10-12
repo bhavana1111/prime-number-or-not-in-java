@@ -14,7 +14,7 @@ class prime
 	 		}
 	 		
 	 	}//loop ends
-	 	if (count>2) {
+	 	if (count>2) {//checking count value as it was modified in above loop
 	 		System.out.println("The given number is not prime" +n);
 	 		
 	 	}
